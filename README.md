@@ -1,23 +1,23 @@
 # Holy Philosophy
 
-A small repository dedicated to ideas, reflection, and the pursuit of meaning.
+Небольшой репозиторий, посвящённый размышлениям, смыслу и поиску глубины в мире, где часто слишком много шума.
 
 > "The unexamined life is not worth living." — Socrates
 
-Holy Philosophy is a minimalist, contemplative project for people who enjoy thinking deeply, exploring ethics, and turning abstract ideas into something tangible.
+Holy Philosophy — это минималистичный, созерцательный проект для тех, кто любит думать, размышлять о жизни, морали, сознании и человеческом смысле, а также превращать идеи в что-то осязаемое.
 
-## Why this repository?
+## Зачем этот репозиторий?
 
-This project exists to hold:
+Этот проект создан для хранения:
 
-- philosophical reflections
-- code experiments inspired by thought
-- notes on ethics, consciousness, and human meaning
-- a space for curious, intentional creation
+- философских размышлений
+- экспериментов с кодом, вдохновлённых мыслями
+- заметок об этике, сознании и смысле жизни
+- пространства для любознательного и осознанного творчества
 
-It is not just a codebase — it is a living notebook of ideas.
+Это не просто набор файлов — это живой дневник идей.
 
-## Project structure
+## Структура проекта
 
 ```text
 holy-philosophy/
@@ -26,58 +26,58 @@ holy-philosophy/
 └── .gitignore
 ```
 
-## Current file
+## Текущий файл
 
 ### gentoo.cpp
 
-This file contains a short C++ example inspired by philosophical thought.
+Этот файл содержит короткий пример на C++, вдохновлённый философской мыслью.
 
-## Quick start
+## Быстрый старт
 
-### Build the C++ example
+### Скомпилировать пример на C++
 
 ```bash
 g++ -std=c++17 -O2 gentoo.cpp -o gentoo
 ./gentoo
 ```
 
-## Core values
+## Основные ценности
 
-- Curiosity
-- Reflection
-- Meaning over noise
-- Truth without vanity
-- Thought that becomes action
+- Любознательность
+- Размышление
+- Смысл вместо шума
+- Истина без самодовольства
+- Мысль, превращённая в действие
 
-## Philosophy in one sentence
+## Философия в одной фразе
 
-We believe that every line of code can carry intention, and every idea can become a form of creation.
+Мы верим, что каждая строка кода может нести намерение, а каждая идея может стать формой созидания.
 
-## Roadmap
+## Дорожная карта
 
-- [x] Create the repository
-- [x] Add initial philosophical code example
-- [ ] Expand with notes and reflections
-- [ ] Add more projects inspired by ethics and consciousness
-- [ ] Build a deeper personal philosophy archive
+- [x] Создать репозиторий
+- [x] Добавить первый философский пример на C++
+- [ ] Расширить заметками и размышлениями
+- [ ] Добавить больше проектов, вдохновлённых этикой и сознанием
+- [ ] Построить более глубокий архив личной философии
 
-## Contributing
+## Участие
 
-Contributions are welcome if they are thoughtful, creative, and aligned with the spirit of the project.
+Вклад приветствуется, если он thoughtful, creative и соответствует духу проекта.
 
-If you want to add:
+Если вы хотите добавить:
 
-- essays
-- notes
-- code experiments
-- philosophical snippets
+- эссе
+- заметки
+- эксперименты с кодом
+- философские фрагменты
 
-feel free to open a branch and share your ideas.
+просто откройте ветку и поделитесь своими идеями.
 
-## Note
+## Примечание
 
-This repository is intentionally simple. It reflects a philosophy of clarity, depth, and human meaning over complexity for its own sake.
+Этот репозиторий намеренно прост. Он отражает философию ясности, глубины и человеческого смысла, а не сложности ради самой сложности.
 
 ---
 
-May your thoughts be sharp, your intentions sincere, and your work meaningful.
+Пусть ваши мысли будут острыми, намерения — искренними, а работа — значимой.
